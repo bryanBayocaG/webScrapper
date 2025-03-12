@@ -17,7 +17,7 @@ async function ProductCard({ url, title, price, merchant, keyd }: Props) {
 
     let productData: ProductData | null = null;
 
-    const response = await fetch("https://realtime.oxylabs.io/v1/queries", {
+    const response = awai fetch("https://realtime.oxylabs.io/v1/queries", {
         method: "POST",
         headers: {
             "Content-Type": "application/json",
