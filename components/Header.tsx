@@ -10,7 +10,7 @@ import {
   SelectItem,
 } from "@tremor/react";
 import SearchButton from './SearchButton';
-import Avatar from 'react-avatar';
+import Avatar from 'react-avata r';
 import { useState } from "react";
 import { useRouter } from 'next/navigation';
 import { usePathname } from 'next/navigation'
