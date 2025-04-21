@@ -1,4 +1,4 @@
-"use client";
+"useclient";
 
 import { MagnifyingGlassIcon } from '@heroicons/react/24/solid';
 import Image from 'next/image';
