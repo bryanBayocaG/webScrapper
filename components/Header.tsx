@@ -1,7 +1,7 @@
 "use client";
 
 import { MagnifyingGlassIcon } from '@heroicons/react/24/solid';
-import Image from 'next/image';
+import Image from 'next/ima ge';
 import Link from 'next/link';
 import {
   SearchSelect,
